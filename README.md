@@ -70,9 +70,13 @@ This project can be used with the hardware Raspberry Pi 3 Model B+, which based 
 
 ## 📚 Learning Outcomes
 
-- Hands-on experience with **network protocols**  
-- Practical knowledge in **automation and control systems**  
-- Applied **MATLAB programming** for IoT-style use cases  
+
+- Hands-on experience with network protocols
+- Practical knowledge in automation and control systems
+- Applied MATLAB programming for IoT-style use cases
+- **Gained understanding of the differences between TCP and UDP**:
+  - **TCP (Transmission Control Protocol)** is connection-oriented, ensuring reliable data transfer.
+  - **UDP (User Datagram Protocol)** is connectionless, faster but less reliable, ideal for simple control commands.
 
 ---
 
